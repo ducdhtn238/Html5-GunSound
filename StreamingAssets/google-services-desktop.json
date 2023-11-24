@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "779360842076",
+    "project_id": "gun-sound-f5cdf",
+    "storage_bucket": "gun-sound-f5cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779360842076:ios:e92298469bc6bf611b1199",
+        "android_client_info": {
+          "package_name": "com.cdtg.gunsound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779360842076-08ot6cm1ckcsniedvtcm5vdl1npnof5g.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCru22cdmaGplL2FdMPw-iaudXMZaa56f0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
